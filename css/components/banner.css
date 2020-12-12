@@ -1,0 +1,21 @@
+.banner{
+	background-image: linear-gradient(45deg, #0000008f, transparent), url(../../images/moramora.jpeg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center; 
+}
+
+.banner h1{
+	font-size: 50px;
+	color: white;
+	font-weight: bold;
+}
+
+.banner h2{
+	font-size: 30px;
+	color: white;
+	font-weight: lighter;
+	opacity: 0,9;
+	margin-bottom: 40px;
+}
+

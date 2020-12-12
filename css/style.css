@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Fira+Sans:wght@300;400;500&family=Playfair+Display+SC:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap');
+@import url(<script src="https://kit.fontawesome.com/b331274732.js" crossorigin="anonymous"></script>);
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/sidebar.css");
+
+body{
+	background-color: #f7f8ff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	color: #717891;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	color: #50839b;
+}
+
+h1{
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+}
